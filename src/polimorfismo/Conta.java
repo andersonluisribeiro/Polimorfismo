@@ -10,8 +10,7 @@ package polimorfismo;
  */
 public class Conta {
     
-    protected Double saldo;
-    
+    protected Double saldo;    
     
     /**
      * Aumenta o saldo com a quantia depositada
@@ -27,6 +26,7 @@ public class Conta {
      */
     public void saca(double quantia){
         this.saldo -= quantia;
+        
     }
     
     /**
