@@ -11,14 +11,14 @@ package polimorfismo;
 public class Conta {
     
     protected Double saldo;    
-    
+   
+
     /**
      * Aumenta o saldo com a quantia depositada
      * @param quantia 
      */
     public void deposita(double quantia){
-        this.saldo += quantia;
-        
+        this.saldo += quantia;        
     }
     
     /**
@@ -26,8 +26,7 @@ public class Conta {
      * @param quantia 
      */
     public void saca(double quantia){
-        this.saldo -= quantia;
-        
+        this.saldo -= quantia;        
     }
     
     /**
