@@ -10,8 +10,7 @@ package polimorfismo;
  */
 public class Conta {
     
-    protected Double saldo;    
-   
+    protected Double saldo;  
 
     /**
      * Aumenta o saldo com a quantia depositada
