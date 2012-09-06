@@ -1,4 +1,3 @@
-
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
@@ -7,7 +6,7 @@ package polimorfismo;
 
 /**
  *
- * @author Anderson
+ * @author Anderson Luis Ribeiro
  */
 public class Conta {
     
