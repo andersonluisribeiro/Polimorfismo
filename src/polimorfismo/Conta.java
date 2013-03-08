@@ -9,8 +9,7 @@ package polimorfismo;
  * @author Anderson Luis Ribeiro
  */
 public class Conta {
-    
-	
+    	
     protected Double saldo;  
 
     /**
